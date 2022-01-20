@@ -5,15 +5,11 @@
 
 en estos archivos se muestran los trabajos realizados durante el bootcamp el cual muestran ejemplos de Unity.
    <ol>
-     
-      <li>Castle</li>
-  
-  
-  
-      <li>Fundamentos</li>   
-  <li>State MAchine</li>
-      <li>Singletone</li>
-      <li>Scripting</li>
+   <li>Castle</li>
+   <li>Fundamentos</li>   
+   <li>State MAchine</li>
+   <li>Singletone</li>
+   <li>Scripting</li>
   <li>Solar System</li>
   <li>Castle Game</li>
    <li>Arthur</li>
